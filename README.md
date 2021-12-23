@@ -21,4 +21,5 @@ You can click the Preview link to take a look at your changes.
 let 식상한_문구 = 'Hello World!'
 
 console.log(식상한_문구) // 'Hello World!'
+console.log('d')
 ```
